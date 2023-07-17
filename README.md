@@ -1,5 +1,7 @@
 # PowerProfiler
 
+This is an application that displays a superhero and their power stats
+
 ## How to run the application:
 
 ### inital steps
