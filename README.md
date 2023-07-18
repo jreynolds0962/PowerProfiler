@@ -25,6 +25,7 @@ If you want to run your program within the gui, you will have to run the gui.py 
 ```
 python3 gui.py
 ```
+
     - A user interface will deploy and it will ask for you to type in a name
 
     - The character list include 731 characters, a vast list, but does not include every character ever. If you want to know all the characters who are available, please see "heroList.py"
