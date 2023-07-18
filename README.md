@@ -28,7 +28,7 @@ python3 gui.py
 
 - A user interface will deploy and it will ask for you to type in a name
 
-- The character list include 731 characters, a vast list, but does not include every character ever. If you want to know all the characters who are available, please see "heroList.py"
+- The character list includes 731 characters, a vast list, but does not include every character ever. If you want to know all the characters who are available, please see "heroList.py"
 
 2. Type in a character name that appears on the character list
 
