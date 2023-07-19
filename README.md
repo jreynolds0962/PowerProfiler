@@ -18,7 +18,7 @@ This is an application that displays a superhero and their power stats
 
 ### GUI
 
-If you want to run your program within the gui, you will have to run the gui.py file on your local machine.
+If you want to run your program within the gui, you will have to run the [gui.py](gui.py) file on your local machine.
 
 1. run this on your terminal
 
